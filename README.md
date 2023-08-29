@@ -7,7 +7,7 @@ FR 1: Feature One
 Displaying customer information
 
 FR 1.1: Feature One Expectation/Restraint
-Upon selecting the "list all customers" option, users will able to view a list of saved customers.
+Upon selecting the "list all customers" option, users are able to view a list of saved customers.
 Passable for a short list, but once the list grows, useability will suffer,
 so that is something for future consideration.
 
