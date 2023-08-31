@@ -81,10 +81,5 @@ Input: any valid value (i.e. existing customer)
 Expected Output: "entry deleted successfully" notification
 
 4.0 Future Enhancements
-As mentioned above under the security section, some form of user login would be the
-first thing to implement as an improvement.  
-Next would be to tighten up the validation for user inputs since the current implementation
-is pretty rudimentary but good enough to guard against simple input errors (e.g. keying in
-an alphabet character into a number field).  
-Improved search functionality to allow partial searches or for multiple filters is another
-good improvement.
+Beyond the aforementioned security concerns, improved search functionality to allow partial searches or for multiple filters is another good improvement.  
+Next would be to implement some form of centralized database to store the customer data to facilitate multiple stores or points of access since the customers cannot be expected to only visit the one store which has their data,for example.
